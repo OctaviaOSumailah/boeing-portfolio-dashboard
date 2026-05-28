@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
+.idea/
+.vscode/
+
+*.csv
+*.xlsx
+*.zip
+
+node_modules/
+
+.env
