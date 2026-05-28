@@ -75,3 +75,6 @@ The dashboard will open in your browser automatically.
 - Benchmark comparison
 - Live websocket market feeds
 - Portfolio optimization tools
+## Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
